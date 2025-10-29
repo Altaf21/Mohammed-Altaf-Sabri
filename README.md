@@ -1,3 +1,3 @@
-# Mohammed-Altaf-Sabri
+# Mohammed Altaf Sabri
 This is my first repository
-# author - Mohammed-Altaf-Sabri
+# Author-Mohammed Altaf Sabri
